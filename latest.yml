@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: c-connect-desktop-1.0.0-setup.exe
+    sha512: GPcU8TUuaqrFKnhzqpilTv3rjehBpnWqvP05Gt5X23PGgw0hrT6WDJeNM/hJrXwQG8HNgDWbwUW5ZqZRZ1185A==
+    size: 94831263
+path: c-connect-desktop-1.0.0-setup.exe
+sha512: GPcU8TUuaqrFKnhzqpilTv3rjehBpnWqvP05Gt5X23PGgw0hrT6WDJeNM/hJrXwQG8HNgDWbwUW5ZqZRZ1185A==
+releaseDate: '2026-08-26T22:35:26.744Z'

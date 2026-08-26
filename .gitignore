@@ -1,0 +1,4 @@
+*.deb
+*.exe
+*.AppImage
+*.snap

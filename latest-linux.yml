@@ -1,0 +1,12 @@
+version: 1.0.0
+files:
+  - url: c-connect-desktop-1.0.0.AppImage
+    sha512: QNCApV3GS7eT3InVhFlU9/uUXWjOTC8sEjFlxmW4bEzr1EWkYejhjnGoVlktRBkRo7Q/2UcyotSGLKQQfe3ETQ==
+    size: 116685799
+    blockMapSize: 121851
+  - url: c-connect-desktop_1.0.0_amd64.deb
+    sha512: zN7nCSN0tgHnKtYzINArAQLxEvpyfm3Bty33SCE6CjBqO4XBnA59iCPGTCFd1mYTg0tD6ck8IXOTjZ4KLYvkxQ==
+    size: 91585136
+path: c-connect-desktop-1.0.0.AppImage
+sha512: QNCApV3GS7eT3InVhFlU9/uUXWjOTC8sEjFlxmW4bEzr1EWkYejhjnGoVlktRBkRo7Q/2UcyotSGLKQQfe3ETQ==
+releaseDate: '2026-08-26T22:17:45.004Z'
